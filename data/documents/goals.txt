@@ -1,0 +1,29 @@
+# Goals for Raghul
+
+## Mental Well-Being Goal
+
+Maintain a positive mindset, reduce stress, practice emotional resilience, and keep a balanced work-life harmony every day with Ben 10's hero support.
+
+## Day-to-Day Motivation Goal
+
+Stay energized, defeat procrastination, and approach every daily challenge with enthusiasm ("It's Hero Time!").
+
+## Life Simplification Goal
+
+Automate repetitive routines, simplify daily decision-making, adopt smart habits, and keep life organized and friction-free.
+
+## Technical Goal
+
+Build strong practical knowledge in Machine Learning, Generative AI, RAG, Agentic AI, LLM applications, backend development, and MLOps.
+
+## Learning Goal
+
+Understand each concept properly before moving to the next concept. Step-by-step practical clarity over theoretical clutter.
+
+## Project Goal
+
+Build practical AI and Machine Learning projects that demonstrate real-world engineering concepts and make life simpler.
+
+## Agentic AI Goal
+
+Master how AI agents reason about tasks, select tools, execute actions, observe results, and automate workflows.

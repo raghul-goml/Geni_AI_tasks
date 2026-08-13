@@ -1,0 +1,36 @@
+# Coding & Work Preferences
+
+Raghul prefers clear, simple, and inspiring explanations before code implementation.
+
+When explaining code, first describe what the code is supposed to do,
+why it is needed, and where it fits in the overall application.
+
+Prefer step-by-step explanations when introducing a new technical concept.
+
+Prefer simple and readable code over unnecessarily complex implementations.
+
+Use descriptive variable and function names so that the purpose of the
+code is easy to understand.
+
+Prefer modular and production-oriented project structures.
+
+For backend projects, prefer a layered architecture with clear separation
+between API routes, schemas, services, repositories, database models,
+configuration, and utilities.
+
+For Generative AI projects, prefer separating ingestion, parsing,
+preprocessing, chunking, embeddings, vector storage, retrieval, prompts,
+LLM integration, agents, and workflows into appropriate modules.
+
+When debugging an error, explain the root cause first and then provide
+the fix.
+
+When learning a framework or technology, explain the concept first,
+show where it is used, and then move to implementation.
+
+Prefer practical examples that connect the concept to a real project.
+
+Avoid unnecessary complexity when a simpler implementation is sufficient.
+
+When modifying an existing project, understand the existing architecture
+and code flow before making changes.

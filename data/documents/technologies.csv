@@ -1,0 +1,22 @@
+Technology,Category,Usage,Level
+Python,Programming,Machine Learning and Generative AI,Advanced
+FastAPI,Backend,Building REST APIs and backend services,Intermediate
+Pydantic,Backend,Data validation and API schemas,Intermediate
+SQLAlchemy,Database,ORM and database integration,Intermediate
+PostgreSQL,Database,Relational database development,Intermediate
+Pytest,Testing,Unit and integration testing,Intermediate
+Scikit-learn,Machine Learning,Model training and evaluation,Intermediate
+XGBoost,Machine Learning,Classification and prediction models,Intermediate
+Streamlit,Frontend,Building ML and AI demo applications,Intermediate
+RAG,Generative AI,Retrieval-Augmented Generation systems,Learning
+Agentic AI,Generative AI,AI agents and tool-based workflows,Learning
+LLMs,Generative AI,Large language model applications,Learning
+Embeddings,Generative AI,Semantic representation and retrieval,Learning
+Qdrant,Vector Database,Vector storage and similarity search,Learning
+NL2SQL,Generative AI,Natural language to SQL pipelines,Learning
+MCP,AI Infrastructure,Connecting AI applications with tools and resources,Learning
+MLOps,Machine Learning,Machine learning deployment and lifecycle,Learning
+Neo4j,Graph Database,Graph-based knowledge representation,Learning
+AWS Bedrock,Cloud AI,Building generative AI applications on AWS,Learning
+Amazon S3,Cloud Storage,Object storage and event-driven workflows,Learning
+AWS Lambda,Serverless,Serverless application processing,Learning

@@ -1,0 +1,123 @@
+# Technical Knowledge
+
+## Machine Learning
+
+Machine Learning allows systems to learn patterns from data and make
+predictions or decisions without explicitly programming every rule.
+
+Important areas include data preprocessing, feature engineering,
+supervised learning, classification, regression, model evaluation,
+feature selection, and model tuning.
+
+## Generative AI
+
+Generative AI systems use models such as Large Language Models to
+generate text and other forms of content.
+
+Important concepts include prompting, embeddings, vector databases,
+Retrieval-Augmented Generation, agents, memory, tool usage, and
+LLM-based application development.
+
+## Embeddings
+
+Embeddings represent text as numerical vectors.
+
+Semantically similar text should produce vectors that are close to
+each other in the embedding space. Embeddings are commonly used for
+semantic search and retrieval.
+
+## Vector Databases
+
+Vector databases store embedding vectors and allow similarity-based
+retrieval.
+
+A typical RAG system stores document chunks as vectors along with
+metadata and retrieves the most relevant chunks for a user query.
+
+## Retrieval-Augmented Generation
+
+RAG combines information retrieval with language generation.
+
+A typical RAG pipeline contains document ingestion, parsing, chunking,
+embedding generation, vector storage, retrieval, context injection,
+and final answer generation.
+
+## Chunking
+
+Chunking divides documents into smaller meaningful pieces before
+embedding.
+
+The chunking strategy should depend on the structure and format of
+the content. Paragraphs, records, Markdown sections, JSON records,
+CSV rows, and HTML sections can require different strategies.
+
+## Reranking
+
+Reranking can be used after an initial retrieval stage to reorder
+candidate documents according to their relevance to the query.
+
+A retrieval system can first retrieve a larger candidate set and then
+use a reranker to select the most relevant context before generation.
+
+## Agentic AI
+
+Agentic AI systems can use an LLM to understand a goal, decide what
+actions are required, select tools, execute those tools, observe the
+results, and continue until the task is completed.
+
+A ReAct-style agent commonly follows a Thought, Action, and Observation
+loop.
+
+## Tools
+
+Tools allow an AI agent to interact with external capabilities such as
+databases, APIs, search systems, calculators, or application functions.
+
+The agent decides which tool is appropriate based on the user's goal
+and the tool descriptions available to it.
+
+## NL2SQL
+
+NL2SQL converts a natural-language question into a SQL query.
+
+A typical pipeline can inspect the database schema, generate SQL,
+validate the generated query, execute it against a database, and
+convert the result into a natural-language answer.
+
+## Memory
+
+AI systems can use different types of memory.
+
+Short-term memory can maintain the current conversation context.
+Long-term memory can store durable facts.
+Episodic memory can record actions or events that occurred during
+previous interactions.
+
+## MLOps
+
+MLOps focuses on developing, deploying, monitoring, and maintaining
+machine learning systems in production.
+
+It connects machine learning development with software engineering,
+automation, testing, deployment, and operational monitoring.
+
+## FastAPI
+
+FastAPI is a Python web framework commonly used to build APIs.
+
+It supports request validation, typed schemas, asynchronous
+programming, dependency injection, and automatic API documentation.
+
+## PostgreSQL
+
+PostgreSQL is a relational database system used to store structured
+data in tables and support SQL queries, relationships, constraints,
+and transactions.
+
+## MCP
+
+Model Context Protocol is a protocol for connecting AI applications
+with external tools and resources through a standardized interface.
+
+It can help AI applications interact with capabilities without
+hardcoding every integration directly into the model.

@@ -1,0 +1,64 @@
+[
+  {
+    "name": "LifeMind AI SaaS Platform",
+    "domain": "Generative AI / Full Stack",
+    "technologies": [
+      "FastAPI",
+      "React",
+      "Vite",
+      "APScheduler"
+    ],
+    "description": "An AI-based SaaS platform with features including expense tracking, habit streak tracking, dark mode, and daily notifications.",
+    "status": "Project developed and deployed"
+  },
+  {
+    "name": "AI Service Desk",
+    "domain": "Backend / Generative AI",
+    "technologies": [
+      "FastAPI",
+      "Pydantic",
+      "SQLAlchemy",
+      "PostgreSQL",
+      "Pytest"
+    ],
+    "description": "A production-style backend for ticket management with CRUD APIs, services, repositories, database integration, validation, and automated testing.",
+    "status": "Development and learning project"
+  },
+  {
+    "name": "GraphRAG Movie",
+    "domain": "Generative AI / GraphRAG",
+    "technologies": [
+      "GraphRAG",
+      "Neo4j",
+      "Python"
+    ],
+    "description": "A project exploring movie knowledge representation and retrieval using graph-based relationships and processed movie data.",
+    "status": "Learning and development project"
+  },
+  {
+    "name": "AWS Bedrock Serverless Image Processing",
+    "domain": "Generative AI / AWS",
+    "technologies": [
+      "Amazon S3",
+      "AWS Lambda",
+      "Amazon Bedrock",
+      "Pillow",
+      "boto3"
+    ],
+    "description": "A serverless image-processing pipeline that generates thumbnails and uses a multimodal Bedrock model to generate image captions, summaries, and tags.",
+    "status": "Development project"
+  },
+  {
+    "name": "Telco Customer Churn Prediction",
+    "domain": "Machine Learning",
+    "technologies": [
+      "Python",
+      "Scikit-learn",
+      "Random Forest",
+      "XGBoost",
+      "Streamlit"
+    ],
+    "description": "A machine learning project for predicting customer churn using preprocessing, feature encoding, model training, evaluation, and a Streamlit application.",
+    "status": "Completed learning project"
+  }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": "attendance_001",
+        "query": "What is the minimum attendance requirement to sit for examinations?",
+        "expected_behavior": "Explain the 75% attendance rule and the maximum condonation limit on medical grounds (up to 10% by the Dean). Below 65% is not allowed.",
+        "expected_tool": null
+    },
+    {
+        "id": "admissions_001",
+        "query": "What documents are required for undergraduate admission?",
+        "expected_behavior": "List transcripts, ID proof, two reference letters, completed application, and English proficiency proofs.",
+        "expected_tool": null
+    },
+    {
+        "id": "examination_001",
+        "query": "How do I apply for revaluation of my answer scripts?",
+        "expected_behavior": "Explain the 15-day online application limit, the $50 per course non-refundable fee, and the 14-day duration for results update.",
+        "expected_tool": null
+    },
+    {
+        "id": "hostel_001",
+        "query": "What are the curfew times and guest rules in the hostel?",
+        "expected_behavior": "Curfew is 10:00 PM. Guests are allowed in common areas 8 AM - 8 PM but not in student rooms.",
+        "expected_tool": null
+    },
+    {
+        "id": "scholarship_001",
+        "query": "What merit scholarships do you offer and who is eligible?",
+        "expected_behavior": "Merit scholarships offer 50% tuition waiver for GPA above 3.80 in previous semester.",
+        "expected_tool": null
+    },
+    {
+        "id": "course_search_001",
+        "query": "Search for machine learning courses",
+        "expected_behavior": "Trigger search_courses tool with query 'machine learning'.",
+        "expected_tool": "search_courses"
+    },
+    {
+        "id": "navigation_001",
+        "query": "Take me to the examinations page",
+        "expected_behavior": "Trigger navigate_page tool with page 'examinations'.",
+        "expected_tool": "navigate_page"
+    },
+    {
+        "id": "download_001",
+        "query": "Download the official university handbook",
+        "expected_behavior": "Trigger download_handbook tool.",
+        "expected_tool": "download_handbook"
+    }
+]
